@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Grouped animals</title>
+        <style>
+            p {
+                font-family: sans-serif;
+            }
+            
+            img {
+                max-width: 150px;
+            }
+            
+            h1 {
+                font-family: times;
+                border-bottom: 1px solid rgb(230, 230, 230);
+                padding: 3px;
+            }
+            
+            h1:hover {
+                background-color: rgb(248, 255, 199);
+            }
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>genrecup</h1>
+        
+        <p>Version 1.0 made by az and dr. marcus</p>
+        
+        <img src="https://media.discordapp.net/attachments/1404179600711614645/1444122047784423454/d7ba3b0a5a4a018f002f3d593221c07d.png?ex=692c37b6&is=692ae636&hm=c653f079d45f3669a23d4842d8a6ed0cf8146da83e9fe0d3415bbdc67c4b7453&=&format=webp&quality=lossless&width=320&height=320">
+        <p>
+        <a href="https://www.bandlab.com/band/genrecup">Learn more on Bandlab</a>
+        </p>
+    </body>
+</html>
